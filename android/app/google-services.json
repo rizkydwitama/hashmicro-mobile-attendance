@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077996209337",
+    "project_id": "hashmicro-mobile-attenda-454c4",
+    "storage_bucket": "hashmicro-mobile-attenda-454c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077996209337:android:b5baa79a4a0ef866a4c768",
+        "android_client_info": {
+          "package_name": "com.example.hashmicro_mobile_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhWz0332F0na9nlThCbAd8Mq6XrNcet8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
